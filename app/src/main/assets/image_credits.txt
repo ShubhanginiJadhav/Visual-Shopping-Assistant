@@ -1,0 +1,3 @@
+Preset1.jpg: https://unsplash.com/photos/woman-in-white-tank-top-and-blue-denim-jeans-sitting-on-gray-concrete-road-during-daytime-60VYe8pVah8
+Preset2.jpg: https://unsplash.com/photos/woman-in-brown-long-sleeve-dress-standing-beside-gray-wall-_jd8I6yBWM4
+Preset3.jpg: https://unsplash.com/photos/women-standing-while-carrying-green-and-brown-leather-2-way-shoulder-bag-TkwBK8nbA8I
